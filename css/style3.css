@@ -303,3 +303,10 @@ a:focus {
 		bottom: 30vh;
 	}
 }
+@media screen and (min-width: 480px) {
+    img {
+        width;100%;
+    }
+}
+
+
